@@ -37,11 +37,8 @@ Homeless reporting standards changed in 2021 to no longer provide an overall hom
 The government data from the U.S. Department of Housing and Urban Development changed on a yearly basis. The way that homeless populations were reported changed in category types and population types creating inconsistencies and no valid pattern in which required extensive cleaning to normalize. Additionally, specific populations were not directly counted until recent years, and dedicated beds for youth and veteran populations were not allocated until 2017.
 
 ## Technologies Used
--Python-
-The primary method of analysis in this project was conducted in Python 3, specifically within a Jupyter Notebook.
+1) Python - The primary method of analysis in this project was conducted in Python 3, specifically within a Jupyter Notebook.
 
--Excel-
-In order to normalize the data prior to analysis, Excel was used for the purpose of cleaning.
+2) Excel - In order to normalize the data prior to analysis, Excel was used for the purpose of cleaning.
 
--Tableau-
-Upon completion of normalization and analysis, Tableau was utilized to create visualizations and an interactive dashboard (see dashboard link for further).
+3) Tableau - Upon completion of normalization and analysis, Tableau was utilized to create visualizations and an interactive dashboard (see dashboard link for further).
